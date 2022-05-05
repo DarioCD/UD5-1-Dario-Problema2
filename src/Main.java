@@ -33,7 +33,7 @@ public class Main {
         }else if (respuesta == 4) {
             int numero1 = numeros.pop();
             int numero2 = numeros.pop();
-            System.out.println("La multiplicación es: " + (numero1 / numero2));
+            System.out.println("La division es: " + (numero1 / numero2));
         }else{
             System.out.println("Valor incorrecto");
         }
